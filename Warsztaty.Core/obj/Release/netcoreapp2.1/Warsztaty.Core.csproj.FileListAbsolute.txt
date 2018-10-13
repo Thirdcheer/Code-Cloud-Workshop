@@ -1,0 +1,12 @@
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\bin\Release\netcoreapp2.1\Warsztaty.Core.deps.json
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\bin\Release\netcoreapp2.1\Warsztaty.Core.dll
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\bin\Release\netcoreapp2.1\Warsztaty.Core.pdb
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\bin\Release\netcoreapp2.1\Warsztaty.ViewModel.dll
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\bin\Release\netcoreapp2.1\Warsztaty.ViewModel.pdb
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.AssemblyInfo.cs
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.csproj.CopyComplete
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.dll
+C:\Users\karol\Desktop\Warsztaty\Warsztaty\Warsztaty.Core\obj\Release\netcoreapp2.1\Warsztaty.Core.pdb
